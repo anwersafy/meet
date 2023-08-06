@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747158692210",
+    "project_id": "newmeet-cb550",
+    "storage_bucket": "newmeet-cb550.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747158692210:android:87deddfe40747105247deb",
+        "android_client_info": {
+          "package_name": "com.awesome.meet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747158692210-4m5sin4gdjvq6o9a8q8jkpna9sips1ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp2a_MiZC1csooAuoQqWxcXgXJY_WudeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747158692210-3su7u7kn1t5qtegcfa053alj613r6968.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
